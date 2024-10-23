@@ -2,4 +2,4 @@
 
 #### 个人简历
 
-[在线地址](https://github.com/tianxianwudi/tianxianwudi.github.io./resume/)
+[在线地址](https://tianxianwudi.github.io)
